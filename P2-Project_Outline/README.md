@@ -7,12 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I will be creating an app that will assist with baking. My app will provide numerous conversions from many different units of measurement, users will find this useful because some recipes may not use the same units of measurement that users do at home. My app will also provide some recipes and tips for baking, for beginners and non beginners, and will provide a place for users to enter their own recipes or tips to share, it is always helpful to reas new baking tips! In addition to recipes, tips, and conversions, my app will also provide ingredient substitutions for those times you want to bake something but can not use or do not have one or more of the required ingredients. I came up with his idea becuase I enjoy baking but I have some dietary restrictions that require me to adjust or change some ingreidents.
+
 ### Features
-Include Features here
+1 - User log in
+2 - Measurement conversions
+3 - General beginner baking tips/recipes
+4 - Keywork search for baking tips/recipes
+5 - Create post for new baking tips/recipes
+6 - Baking ingredient substitutions
+
 ### Technologies
-Include Technologies here
+- C#
+- HTML & CSS
+- Visual Studio
+- MySQL
+- .NET Fiddle
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn .NET Fiddle and also learn more about units of measurements and conversions in C#.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/Yht5XvUn/project-1
